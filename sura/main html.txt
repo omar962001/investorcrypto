@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bondi</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="bondi.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+ <!--Start Header  -->
+  <nav class="navbar navbar-expand-lg sticky-top">
+      <div class="container">
+          <a class="logo navbar-brand" href="#">
+            <img src="sura/logonew.png" alt="" title="Investors Corner"/>
+          </a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#main"
+            aria-controls="main"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+            <i class="fa-solid fa-bars"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="main">
+                <ul class="main-nav navbar-nav ms-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="f-link nav-link p-2 p-lg-3 " aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link p-2 p-lg-3" href="#News">News</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link p-2 p-lg-3" href="#Services">Services</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link p-2 p-lg-3" href="#Community">Community</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link p-2 p-lg-3" href="#Team">Team</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link p-2 p-lg-3" href="#">Contact</a>
+                  </li>
+                </ul>
+                <div class="search d-lg-block text-center">
+                    <a href="https://t.me/investorscorner_co" target="_blank"><i class="fa-brands fa-telegram text-light fa-2x" ></i></a>
+                    <a href="https://twitter.com/CornerInvestors" target="_blank"><i class="color-tweet fa-brands fa-twitter text-light   fa-2x"></i></a>
+                  </div>
+            </div>
+      </div>
+    </nav>
+    <!-- End Header -->
+    <!-- --------------------------------------------------Start Landing------------------------------------------------- -->
+    <div class="landing">
+      <div class="container">
+        <div class="text text-light">
+          <h2 class="heading" >Welcome To<br>Investors Corner <br> Community</h2>
+          <p>Looking for a Crypto Community? investors corner is the one.<br> A Community That Focuses On Crypto Investors</p>
+          <div class="buttons">
+            <a href="https://t.me/investorscorner_co" target="_blank" class="btn btn-success p-2">Join Now</a>
+            <a href="https://t.me/O_S_C_4" target="_blank" class="btn btn-success p-2">Contact Us</a>
+          </div>
+          <div class="images">
+            <img class="persons" src="sura/person.png" alt="">
+            <span>31K + Membership</span>
+          </div>
+        </div>
+        <div class="crypto-images">
+          <img class="animation" src="sura/crypto_images.png" alt="">
+        </div>
+      </div>
+    </div>
+    <!-- --------------------------------------------------End Landing--------------------------------------------------- -->
+    <!-- start twitter live --> 
+    <div class="twitter pb-5">
+      <div class="container">
+        <h2 class="special-heading">Twitter Live</h2>
+        <hr>
+        <div class="row align-items-center">
+          <div class="col-lg-8">
+            <div class="txt rounded-full"></div>
+            <div class="live-twitter">
+              <iframe scrolling="no" src="https://syndication.twitter.com/srv/timeline-profile/screen-name/CornerInvestors?dnt=false&amp;embedId=twitter-widget-0&amp;frame=false&amp;lang=en&amp;maxHeight=650&amp;origin=https%3A%2F%2Fwhalecointalk.com%2F&amp;sessionId=0b2bed7ddfb3e1782a68032a96b8cb5f61d8f4ac&amp;showHeader=false&amp;showReplies=false&amp;theme=dark&amp;widgetsVersion=31f0cdc1eaa0f%3A1660602114609" height="650px" width="70%" title="Iframe Example"></iframe>
+            </div>
+          </div>
+          <div class="col-lg-4 mb-4 text-center text-md-start">
+            <div class="text text-center pt-5">
+              <h4 class="fs-1 text-light" >Be Part of Something impressive</h4>
+              <p class="fs-6 text-white-50">
+                investors corner is a place for crypto enthusiasts wherein you get hold of the latest crypto project through our AMA
+              </p>
+              <hr>
+              <p class="fs-6 text-white-50">
+                investors corner has crypto enthusiasts who assist each other in the community and you also get a chance to witness the latest crypto projects through our AMA.
+              </p>
+              <a href="https://twitter.com/CornerInvestors?s=20" target="_blank" class="btn btn-primary p-2">Join Twitter Live</a>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    <!-- End twitter live -->
+    <!-- ------------------------------------------------------------------------------------------------------------------- -->
+    <!-- Start promoted -->
+    <div class="promoted pb-5">
+      <div class="container">
+        <h2 class="special-heading">Promoted</h2>
+        
+        <div class="call text-center pb-3">
+          <p class="text-light">You Need Promote !.</p>
+          <a href="https://t.me/O_S_C_4" target="_blank" class="btn btn-primary p-2">Contact Us</a>
+          <hr>
+        </div>
+        <div class="row">
+          <!--------------------------------------- First Card ------------------------------------------ -->
+          <div class="col-lg-4 col-md-6">
+            <div class="cards">
+              <div class="image">
+                <img class="img-fluid" src="sura/WhatsApp Image 2023-07-02 at 12.58.16 AM.jpeg" alt="">
+              </div>
+              <div class="info">
+                <a target="_blank" href="https://www.okx.com/activities/earn-stader-boosted-yields-campaign?utm_source=SocialMedia&utm_medium=Twitter&utm_campaign=OKX_Stader_boosted_yield"><h3 class="text-light">📢 Stader x OKX Web3 Partnership Announcement🤝</h3></a>
+                <p class="text-light">Stake your $Matic or $ BNB on Stader through OKX Web3 Earn site🎉
+                  Get up to 10% boosted annualized staking rewards🤑</p>
+              </div>
+            </div>
+          </div>
+          <!--------------------------------------- End First Card ------------------------------------------ -->
+          <!--------------------------------------- Scound Card ------------------------------------------ -->
+          <div class="col-lg-4 col-md-6">
+            <div class="cards">
+              <div class="image">
+                <video width="100%" height="240" autoplay controls loop muted>
+                  <source src="sura/WhatsApp Video 2023-07-02 at 12.44.26 AM.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video>
+              </div>
+              <div class="info">
+                <a target="_blank" href="https://www.pinksale.finance/launchpad/0xb1f2B1E36a898EE4F5c413Ebc105dCbcF7A0FBD5?chain=BSC"><h3 class="text-light">EthShares $ETS AI Meets</h3></a>
+                <p class="text-light">EthShares offers a world class dividend payment system + AI dApps.
+                  Token holders receive dividends in ETH paid directly to their wallets without the need to claim tokens. There is no contract ownership making our ecosystem 100% decentralized.</p>
+              </div>
+            </div>
+          </div>
+          <!---------------------------------------End Scound Card ------------------------------------------ -->
+          <!--------------------------------------- Third Card ------------------------------------------ -->
+
+          <div class="col-lg-4 col-md-6">
+            <div class="cards">
+              <div class="image">
+                <img class="img-fluid" src="sura/WhatsApp Image 2023-07-02 at 12.58.16 AMm.jpg" alt="">
+              </div>
+              <div class="info">
+                <a href="https://t.me/Corner_Investors/65"><h3 class="text-light">Partnership with OKX EXCHANGE</h3></a>
+                <p class="text-light">We are so excited and proud to announce that Investors Corner Community is entered into a potential partnership with OKX Exchange</p>
+              </div>
+            </div>
+          </div>
+          <!---------------------------------------End Third Card ------------------------------------------ -->
+
+        </div>
+      </div>
+    </div>
+    <!-- End promoted -->
+    <!-- -------------------------------------------------------------------------------- -->
+    <!-- Start status -->
+    <div class="status pb-5">
+      <div class="container">
+        <h2 class="special-heading ">Community Statistics</h2>
+        <hr class="mb-5">
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="text text-center text-light">
+              <h2 class="fs-1">Join For Us!</h2>
+              <p>Hey, investors stay ahead of the people around you join our community and be updated about the latest innovations in the crypto space with our amazing collaborations and good AMA.</p>
+              <div class="box-static">
+                <div class="box">
+                  <span class="effect-one">Telegram</span>
+                  <h4 class="effect-one">23K+</h4>
+                </div>
+                <hr>
+                <div class="box">
+                  <span class="effect-two">Twitter</span>
+                  <h4 class="effect-two">8K+</h4>
+                </div>
+                <hr>
+                <div class="box">
+                  <span class="effect-three">Binance Live</span>
+                  <h4 class="effect-three">Soon</h4>
+                </div>
+              </div>
+              <a href="https://t.me/investorscorner_co" target="_blank" class="btn btn-primary p-2 mb-3 ">Join Now</a>
+            </div>
+          </div>
+          <div class="col-lg-8 col-sm-12">
+            <div class="main-sir">
+              <div class="sircle"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End status -->
+  <script src="js/bootstrap.bundle.min.js"></script>
+  <script src="js/all.min.js"></script>
+</body>
+</html>
