@@ -302,6 +302,10 @@ hr {
   text-align: center;
   font-size: 15px;
 }
+.promoted .cards .info a {
+  display: block;
+  margin: 15px 0;
+}
 /* End twitter live */
 /* ---------------------------------------------------------------------------------------------- */
 /* Start status */
